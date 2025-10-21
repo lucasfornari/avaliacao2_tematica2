@@ -15,7 +15,6 @@ public class Pedido {
         return nomePedido;
     }
 
-    @Override
     public String toString() {
         return "pedido [id: " + id + ", nome: " + nomePedido + "]";
     }
